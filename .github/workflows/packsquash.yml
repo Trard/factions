@@ -24,5 +24,5 @@ jobs:
       - name: Create release
         uses: softprops/action-gh-release@v2
         with:
-          files: BloodStone.zip
+          files: BloodStoneFactions.zip
           token: ${{ secrets.CUSTOM_GITHUB_TOKEN }}
