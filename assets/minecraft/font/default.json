@@ -1,1 +1,13 @@
-{"providers":[{"type":"bitmap","file":"minecraft:font/dshrgrastishka.png","ascent":8,"height":9,"chars":["🬀"]},{"type":"bitmap","file":"minecraft:font/seraphims.png","ascent":8,"height":9,"chars":["\ud83f"]},{"type":"bitmap","file":"minecraft:font/celestials.png","ascent":8,"height":9,"chars":["\ud840"]},{"type":"bitmap","file":"minecraft:font/federatsiyatorgovykhkotikov.png","ascent":8,"height":9,"chars":["\ud841"]},{"type":"bitmap","file":"minecraft:font/gazobloki.png","ascent":8,"height":9,"chars":["\ud842"]}]}
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/dshrgrastishka.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "᐀"
+            ]
+        }
+    ]
+}
