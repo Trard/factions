@@ -1,13 +1,1 @@
-{
-    "providers": [
-        {
-            "type": "bitmap",
-            "file": "minecraft:font/dshrgrastishka.png",
-            "ascent": 8,
-            "height": 9,
-            "chars": [
-                "᐀"
-            ]
-        }
-    ]
-}
+{"providers":[{"type":"bitmap","file":"minecraft:font/dshrgrastishka.png","ascent":8,"height":9,"chars":["᐀"]},{"type":"bitmap","file":"minecraft:font/seraphims.png","ascent":8,"height":9,"chars":["ᐁ"]},{"type":"bitmap","file":"minecraft:font/brigadafantom.png","ascent":8,"height":9,"chars":["ᐂ"]},{"type":"bitmap","file":"minecraft:font/coppers.png","ascent":8,"height":9,"chars":["ᐃ"]},{"type":"bitmap","file":"minecraft:font/celestials.png","ascent":8,"height":9,"chars":["ᐄ"]},{"type":"bitmap","file":"minecraft:font/volkialikhana.png","ascent":8,"height":9,"chars":["ᐅ"]},{"type":"bitmap","file":"minecraft:font/federatsiyatorgovykhkotikov.png","ascent":8,"height":9,"chars":["ᐆ"]},{"type":"bitmap","file":"minecraft:font/ford.png","ascent":8,"height":9,"chars":["ᐇ"]},{"type":"bitmap","file":"minecraft:font/gazobloki.png","ascent":8,"height":9,"chars":["ᐈ"]}]}
