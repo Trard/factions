@@ -30,8 +30,8 @@ jobs:
           curl -L -H "Accept: application/octet-stream" \
                -H "Authorization: token $TOKEN" \
                "https://api.github.com/repos/$REPO/releases/assets/$ASSET_ID" \
-               -o BloodStone.zip
-          ls -l BloodStone.zip
+               -o BloodStoneFactions.zip
+          ls -l BloodStoneFactions.zip
 
       - name: Copy ZIP to remote via SCP
         uses: appleboy/scp-action@master
