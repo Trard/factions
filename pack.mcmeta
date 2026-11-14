@@ -1,1 +1,15 @@
-{"pack":{"pack_format":22,"description":"Ресурспак на фракции для BloodStone"}}
+{
+  "pack": {
+    "pack_format": 22,
+    "description": "Ресурспак на фракции для BloodStone",
+    "supported_formats": [
+      22,
+      97
+    ],
+    "min_format": 22,
+    "max_format": [
+      97,
+      1
+    ]
+  }
+}
